@@ -28,5 +28,5 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/muhammad-salman-687493210"><img src="https://img.shields.io/badge/-Muhammad%20Salman-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/muhammad-salman-687493210"><img src="https://img.shields.io/badge/-Muhammad%20Salman-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
