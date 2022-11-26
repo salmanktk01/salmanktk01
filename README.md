@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Engineering student at NUST.\
+🎓 &nbsp;I'm currently studying Computer Engineering at NUST.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue Andriod app development as/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
