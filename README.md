@@ -1,6 +1,6 @@
 <div align="center">
   <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
-  <h2>Hey there! I'm Salman</h2>
+  <h2>Hey there! I'm Muhammad Salman</h2>
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </div>
 
@@ -11,7 +11,7 @@
 ✍️ &nbsp;I develop AI-powered applications and automated content generation systems.\
 💬 &nbsp;Feel free to reach out to me for AI/ML consulting or interesting discussions about generative AI.\
 ✉️ &nbsp;You can shoot me an email at muhammadsalman.nust@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Check out my [Résumé](your_resume_link) for more details about my work experience and projects!
+📄 &nbsp;Check out my [Résumé](https://drive.google.com/file/d/14SDVo5z2_vtIdOOma6sD90BkqDT3q3WH/view?usp=drivesdk ) for more details about my work experience and projects!
 
 ### 🛠 &nbsp;Tech Stack
 
