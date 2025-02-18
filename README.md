@@ -33,7 +33,6 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzk4dndsdmVuamZzNWpyZHh3dGdwYm8xdG5mYmV5a3gzb2FmMDV4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NgF0swF7O2P0aAnRgL/giphy.gif" width="400" alt="AI/ML">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmVhaHBuNmcxYThscmZ2ZmRjZnY5ZmE4dG11anp1cjkwOHA1dzlobiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="400" alt="MLOps">
 </div>
 
@@ -42,7 +41,3 @@
 <a href="https://linkedin.com/in/msalman"><img src="https://img.shields.io/badge/-Muhammad%20Salman-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:muhammadsalman.nust@gmail.com"><img src="https://img.shields.io/badge/-muhammadsalman.nust@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZ5Z3Zxc2h2NjRoYnVvOHAyY2QzMnNjYmdvNmR0cmNyZDU4MXpnMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400" alt="Data Science">
-</div>
