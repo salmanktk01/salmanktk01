@@ -9,9 +9,11 @@
 ✉️ &nbsp;You can shoot me an email at muhammadsalman.nust@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Check out my [Résumé](your_resume_link) for more details about my work experience and projects!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
 ### 🛠 &nbsp;Tech Stack
+
+<img align="left" alt="AI/ML" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzk4dndsdmVuamZzNWpyZHh3dGdwYm8xdG5mYmV5a3gzb2FmMDV4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NgF0swF7O2P0aAnRgL/giphy.gif">
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)&nbsp;
@@ -27,11 +29,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=streamlit)&nbsp;
 
-### 🚀 &nbsp;Featured Projects
-- AI-Powered Blog Content Generation System using CrewAI
-- Advanced RAG System with LangGraph and Astra DB
-- Hybrid Search RAG Chatbot with Pinecone
-- SQL Database Chatbot using LangChain
+<img align="right" alt="MLOps" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmVhaHBuNmcxYThscmZ2ZmRjZnY5ZmE4dG11anp1cjkwOHA1dzlobiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif">
 
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
@@ -39,10 +37,4 @@
 <a href="mailto:muhammadsalman.nust@gmail.com"><img src="https://img.shields.io/badge/-muhammadsalman.nust@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
-### 📊 &nbsp;GitHub Analytics
-<p align="center">
-<a href="https://github.com/yourusername">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yourusername&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<img align="left" alt="Data Science" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZ5Z3Zxc2h2NjRoYnVvOHAyY2QzMnNjYmdvNmR0cmNyZDU4MXpnMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif">
