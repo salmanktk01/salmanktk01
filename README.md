@@ -41,14 +41,6 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmVhaHBuNmcxYThscmZ2ZmRjZnY5ZmE4dG11anp1cjkwOHA1dzlobiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="400" alt="MLOps">
 </div>
 
----
-
-### 📚 &nbsp;Papers & Topics I Follow
-- Transformers, LoRA, QLoRA, RAG
-- Vision Transformers (ViT), SAM, CycleGAN
-- U-Net, LSTM, ReAct, LangGraph, CrewAI
-
----
 
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
