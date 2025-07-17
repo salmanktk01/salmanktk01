@@ -10,7 +10,7 @@
 ⚙️ I use **LangChain, LangGraph, CrewAI, Hugging Face, TensorFlow, PyTorch, FastAPI, Streamlit**, and **AWS EC2** to develop scalable AI applications.\
 📚 Passionate about **LLMs, LoRA/QLoRA fine-tuning**, Retrieval-Augmented Generation, MCP integration, and transformer architectures.\
 📌 I've implemented multi-agent toolboxes, intelligent AI agents with human-in-the-loop, YouTube-to-Blog generation systems, and custom transformer models.\
-📫 Reach out at **muhammadsalman.nust@gmail.com** — I'm available for consulting, AI development, and collaborations.\
+📫 Reach out at **muhammadsalman.nust@gmail.com** . I'm available for consulting, AI development, and collaborations.\
 📄 Check out my [Résumé](https://drive.google.com/file/d/14SDVo5z2_vtIdOOma6sD90BkqDT3q3WH/view?usp=drivesdk) for full project details!
 
 ---
