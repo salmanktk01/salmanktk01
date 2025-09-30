@@ -12,6 +12,30 @@
 📌 I've implemented multi-agent toolboxes, intelligent AI agents with human-in-the-loop, YouTube-to-Blog generation systems, and custom transformer models.\
 📫 Reach out at **muhammadsalman.nust@gmail.com** . I'm available for consulting, AI development, and collaborations.\
 
+AI Engineer – Fee Comparison & Orchestration Pipeline
+
+Designed and implemented a Fee Comparison Agent using LangGraph orchestration, combining custom logic nodes, LLM-powered nodes, and API integrations to automate baseline vs. current fee comparisons.
+
+Engineered and refined LLM prompts (context-aware and Chain-of-Thought techniques) to significantly improve response quality and accuracy in financial data extraction.
+
+Built a Streamlit frontend for interactive validation of results and reporting, supporting 300+ fee trace evaluations.
+
+Refactored pipeline code to use Pydantic BaseModels instead of dictionaries, improving maintainability, validation, and scalability.
+Designed and implemented a Fee Comparison Agent using LangGraph orchestration, enabling automated comparison of baseline vs. current fee schedules.
+
+Developed a modular pipeline with 3+ nodes (mix of custom logic nodes, LLM-powered nodes, and LangGraph API integrations).
+
+Refactored codebase to leverage Pydantic BaseModel structures instead of dictionaries, improving maintainability, validation, and type-safety.
+
+Built and validated batch processing workflows to handle large datasets (>300+ traces), optimizing performance for scale.
+
+Implemented custom evaluation metrics (semantic similarity, Jaccard similarity, weighted field scoring) to improve accuracy and align results with business rules.
+
+Integrated AI-generated summaries to highlight fee updates, compliance impacts, and participant changes.
+
+Developed a Streamlit frontend for visualizing comparison outputs and validating results interactively.
+
+Wrote comprehensive unit tests and created detailed documentation to ensure code quality and cross-team adoption.
 ---
 
 ### 🛠 &nbsp;Tech Stack
